@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ECF0F1;
+}
+
+header, section, footer {
+  width: 90%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+	width: 80%;
+	height: auto;
+	text-align: center;
+	font-size: medium;
+}
+
+h3, h5 {
+  text-align: center;
+}
+
+h3 {
+	font-size: x-large;
+}
+
+h4 {
+  text-align: left;
+  text-decoration: underline;
+  text-style: italic;
+  font-size: large;
+}
+
+h5 {
+	font-size: medium;
+}
+
+p {
+  width: inherit;
+  padding: 1em;
+  text-align: justify;
+  font-size: medium;
+}
+
+ul {
+	list-decoration: none;
+}
+
+img {
+	max-width: 256px;
+	max-height: 256px;
+	align: center;
+	margin: 0.5em 0;
+	border: 1px solid black;
+}

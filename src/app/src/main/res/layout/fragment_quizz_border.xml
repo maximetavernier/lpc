@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/horizontal_margin_medium"
+    android:paddingRight="@dimen/horizontal_margin_medium">
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="@dimen/text_size_xlarge"
+      android:id="@+id/quizzBorderTitleTextView"
+      android:layout_marginTop="@dimen/margin_medium"
+      android:layout_marginBottom="@dimen/margin_small"
+      android:textColor="@android:color/black"/>
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/quizzBorderContentLayout"
+      android:layout_below="@id/quizzBorderTitleTextView"
+      android:padding="@dimen/margin_small">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_medium"
+        android:textColor="@android:color/black"
+        android:id="@+id/quizzBorderContentTextView"/>
+  </RelativeLayout>
+</RelativeLayout>

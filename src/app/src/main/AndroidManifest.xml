@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="io.tatav.learningpc"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <application
+      android:allowBackup="true"
+      android:icon="@mipmap/ic_launcher"
+      android:label="@string/app_name"
+      android:supportsRtl="true"
+      android:theme="@style/AppTheme">
+    <activity
+        android:name=".activities.SplashScreenActivity"
+        android:screenOrientation="portrait"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:theme="@style/SplashScreenTheme">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity
+        android:name=".activities.MainActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/main_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.LessonListActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/lesson_list_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.LessonActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/lesson_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.QuizzListActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/quizz_list_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.QuizzActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/quizz_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.TutoListActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/tuto_list_activity_title">
+    </activity>
+    <activity
+        android:name=".activities.TutoActivity"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/tuto_activity_title">
+    </activity>
+  </application>
+
+</manifest>

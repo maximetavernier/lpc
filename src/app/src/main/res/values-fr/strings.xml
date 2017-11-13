@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- String values: FR -->
+<resources>
+  <string name="app_name">Learning PC</string>
+
+  <!-- SplashScreenActivity -->
+  <string name="title_activity_index">Index</string>
+
+  <!-- Main activity -->
+  <string name="main_activity_title">Menu principal</string>
+  <string name="main_activity_tuto_button_title">Petits tutos</string>
+  <string name="main_activity_lesson_button_title">Leçons</string>
+  <string name="main_activity_quizz_button_title">Quizzes</string>
+
+  <!-- LessonListActivity -->
+  <string name="lesson_list_activity_title">Liste des leçons</string>
+
+  <!-- QuizzListActivity -->
+  <string name="quizz_list_activity_title">Liste des quizzes</string>
+
+  <!-- TutoListActivity -->
+  <string name="tuto_list_activity_title">Liste des tutos</string>
+
+  <!-- LessonActivity -->
+  <string name="lesson_activity_title">Leçon</string>
+
+  <!-- QuizzActivity -->
+  <string name="quizz_activity_title">Quizz</string>
+  <string-array name="quizz_result_appreciation">
+    <item>Avez-vous lu le cours ?</item>
+    <item>Peut mieux faire…</item>
+    <item>Bravo.</item>
+    <item>Parfait, félicitations !</item>
+  </string-array>
+
+  <!-- TutoActivity -->
+  <string name="tuto_activity_title">Tuto</string>
+
+  <!-- View text -->
+  <string-array name="learning_model_status">
+    <item>A faire</item>
+    <item>En cours</item>
+    <item>Terminé</item>
+  </string-array>
+</resources>

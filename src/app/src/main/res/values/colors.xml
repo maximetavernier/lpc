@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--
+    Color inspired by http://flatcolors.net/
+    The selected palette is 286-flat-blue-design
+    Full url : http://flatcolors.net/palette/286-flat-blue-design#
+   -->
+  <color name="cloud">#ECF0F1</color>
+  <color name="light_blue">#73B1D6</color>
+  <color name="medium_blue">#4589B0</color>
+  <color name="dark_blue">#1D628B</color>
+
+  <color name="black">#000</color>
+  <color name="white">#FFF</color>
+  <color name="dark_grey">#444444</color>
+</resources>

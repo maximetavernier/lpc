@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Positive Margin -->
+  <dimen name="horizontal_margin_large">128dp</dimen>
+  <dimen name="vertical_margin_large">128dp</dimen>
+  <dimen name="margin_large">128dp</dimen>
+
+  <dimen name="horizontal_margin_medium">64dp</dimen>
+  <dimen name="vertical_margin_medium">64dp</dimen>
+  <dimen name="margin_medium">64dp</dimen>
+
+  <dimen name="horizontal_margin_small">32dp</dimen>
+  <dimen name="vertical_margin_small">32dp</dimen>
+  <dimen name="margin_small">32dp</dimen>
+
+  <dimen name="horizontal_margin_xsmall">16dp</dimen>
+  <dimen name="vertical_margin_xsmall">16dp</dimen>
+  <dimen name="margin_xsmall">16dp</dimen>
+
+  <dimen name="horizontal_margin">64dp</dimen>
+  <dimen name="vertical_margin">64dp</dimen>
+
+  <!-- Negative Margin -->
+  <dimen name="horizontal_neg_margin_large">-128dp</dimen>
+  <dimen name="vertical_neg_margin_large">-128dp</dimen>
+  <dimen name="neg_margin_large">-128dp</dimen>
+
+  <dimen name="horizontal_neg_margin_medium">-64dp</dimen>
+  <dimen name="vertical_neg_margin_medium">-64dp</dimen>
+  <dimen name="neg_margin_medium">-64dp</dimen>
+
+  <dimen name="horizontal_neg_margin_small">-32dp</dimen>
+  <dimen name="vertical_neg_margin_small">-32dp</dimen>
+  <dimen name="neg_margin_small">-32dp</dimen>
+
+  <dimen name="horizontal_neg_margin_xsmall">-16dp</dimen>
+  <dimen name="vertical_neg_margin_xsmall">-16dp</dimen>
+  <dimen name="neg_margin_xsmall">-16dp</dimen>
+
+  <dimen name="horizontal_neg_margin">-64dp</dimen>
+  <dimen name="vertical_neg_margin">-64dp</dimen>
+
+
+  <!-- Padding -->
+
+  <!-- Cards -->
+  <dimen name="card_height">180dp</dimen>
+  <dimen name="card_corner_radius">4dp</dimen>
+  <dimen name="card_elevation">4dp</dimen>
+
+  <!-- Text -->
+  <dimen name="text_size_xlarge">38sp</dimen>
+  <dimen name="text_size_large">30sp</dimen>
+  <dimen name="text_size_medium">26sp</dimen>
+  <dimen name="text_size_small">22sp</dimen>
+  <dimen name="text_size_xsmall">14sp</dimen>
+</resources>

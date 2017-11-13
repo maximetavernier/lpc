@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_quizz"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/vertical_margin"
+    android:paddingLeft="@dimen/horizontal_margin"
+    android:paddingStart="@dimen/horizontal_margin"
+    android:paddingRight="@dimen/horizontal_margin"
+    android:paddingEnd="@dimen/horizontal_margin"
+    android:paddingTop="@dimen/vertical_margin"
+    android:background="@color/cloud"
+    tools:context="io.tatav.learningpc.abs.activities.ViewPagerActivity">
+  <io.tatav.learningpc.views.UnscrollableViewPager
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/unscrollableViewPager"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_marginLeft="@dimen/margin_large"
+      android:layout_marginStart="@dimen/margin_large"
+      android:layout_marginRight="@dimen/margin_large"
+      android:layout_marginEnd="@dimen/margin_large"/>
+
+  <RelativeLayout
+      android:layout_alignBottom="@id/unscrollableViewPager"
+      android:layout_margin="@dimen/margin_medium"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/previousImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:color/transparent"
+        android:src="@drawable/button_enabled_previous"/>
+    <ImageButton
+        android:id="@+id/nextImageButton"
+        android:src="@drawable/button_enabled_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:background="@android:color/transparent"/>
+  </RelativeLayout>
+</RelativeLayout>

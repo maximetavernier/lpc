@@ -1,0 +1,26 @@
+[
+  {
+    "id": "53bc4aca-d21b-4016-8ac4-1cbf37bcd542",
+    "title": "Copier/coller",
+    "description": "Comment faire un copier/coller facilement !",
+    "difficulty": 1.0,
+    "picture": "drawable/model_copypaste",
+    "contentFile": "copypaste.html"
+  },
+  {
+    "id": "ade8821b-a58d-4fd5-90dc-2967b3f4821e",
+    "title": "Retirer un périphérique USB proprement",
+    "description": "Comment retirer un appareil USB de manière sauve",
+    "difficulty": 1.0,
+    "picture": "drawable/model_usb",
+    "contentFile": "umount.html"
+  },
+  {
+    "id": "7978d383-6234-437d-b328-446ea650e4dd",
+    "title": "Joindre un fichier",
+    "description": "Choisir un fichier à joindre dans un email",
+    "difficulty": 1.0,
+    "picture": "drawable/model_joinfile",
+    "contentFile": "joinfile.html"
+  }
+]

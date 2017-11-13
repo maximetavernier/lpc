@@ -1,0 +1,52 @@
+[
+  {
+    "id": "719fe916-d3c0-42af-965e-96a5f98faf4f",
+    "title": "Files formats",
+    "description": "Recognition and learning of the different kind of file formats",
+    "difficulty": 3.0,
+    "status": 0,
+    "picture": "drawable/model_formats",
+    "quizzId": "a722f221-204a-4323-9c27-b02136e7a808",
+    "contentFile": "formats.html"
+  },
+  {
+    "id": "8861b889-599b-42b5-952b-f81e8529be2e",
+    "title": "Master your keyboard",
+    "description": "Knowing the different keys, as well as their combinations",
+    "difficulty": 2.0,
+    "status": 0,
+    "quizzId": "32917aac-7c6e-4f1a-94b3-717a4cdb9658",
+    "picture": "drawable/model_keyboard",
+    "contentFile": "keyboard.html"
+  },
+  {
+    "id": "a595c400-50ef-4896-8c50-42343c33f8be",
+    "title": "The files system",
+    "description": "Learn to recognize files, folders, and symlinks",
+    "difficulty": 1.0,
+    "status": 0,
+    "quizzId": "229e1f69-21ff-4ab4-a53f-4d4c4664d456",
+    "picture": "drawable/model_files",
+    "contentFile": "files.html"
+  },
+  {
+    "id": "53bc4aca-d21b-4016-8ac4-1cbf37bcd542",
+    "title": "Using an Internet Browser",
+    "description": "Mastering the basics of web exploration",
+    "difficulty": 1.0,
+    "status": 0,
+    "quizzId": "715de63f-2397-4524-a260-16e99edb785a",
+    "picture": "drawable/model_internet",
+    "contentFile": "internet.html"
+  },
+  {
+    "id": "d4c418b3-2bd9-4318-b669-3f8d621dd758",
+    "title": "E-mails",
+    "description": "Knowing the basics of what is an e-mail",
+    "difficulty": 1.0,
+    "status": 0,
+    "quizzId": "65956bfa-4534-4f63-b789-fb0e166ebd0c",
+    "picture": "drawable/model_email",
+    "contentFile": "email.html"
+  }
+]

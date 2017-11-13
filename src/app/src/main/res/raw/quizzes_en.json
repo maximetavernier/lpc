@@ -1,0 +1,183 @@
+[
+  {
+    "id": "a722f221-204a-4323-9c27-b02136e7a808",
+    "title": "Files formats",
+    "description": "Recognition and learning of different file formats",
+    "difficulty": 3.0,
+    "status": 0,
+    "lessonId": "719fe916-d3c0-42af-965e-96a5f98faf4f",
+    "introduction": "",
+    "conclusion": "You made a score of %d/%d. %s",
+    "picture": "drawable/model_formats",
+    "parts": [
+      {
+        "id": "3b5bff0d-b434-4c80-a751-bc2904b54fe3",
+        "questionId": 1,
+        "question": "Which one of this format is not audio ?",
+        "choices": [
+          "JPEG",
+          "MP3",
+          "OGG",
+          "WAV"
+        ],
+        "goodAnswer": 0
+      },
+      {
+        "id": "4ea4e868-0202-432b-93b0-4448b1cb3419",
+        "questionId": 2,
+        "question": "Which of these formats is not a video file ?",
+        "choices": [
+          "MPEG2",
+          "MPEG3",
+          "MPEG4",
+          "That's all video's formats"
+        ],
+        "goodAnswer": 3
+      },
+      {
+        "id": "a1770918-d29b-4dbc-bcc9-c6deaf9c6584",
+        "questionId": 3,
+        "question": "Lequel de ces formats d'image est le plus léger (mais dont la qualité est moindre) ?",
+        "choices": [
+          "BMP",
+          "JPG",
+          "GIF",
+          "PNG"
+        ],
+        "goodAnswer": 2
+      },
+      {
+        "id": "d3ab1864-dbd1-42a0-bb92-7e493153a028",
+        "questionId": 4,
+        "question": "Lequel de ces formats appartient à la classe des videos ?",
+        "choices": [
+          "AVI",
+          "WMA",
+          "GIF",
+          "PDF"
+        ],
+        "goodAnswer": 0
+      },
+      {
+        "id": "518cc840-1b12-4dbf-a049-d337064477ef",
+        "questionId": 5,
+        "question": "Que signifie Flac ?",
+        "choices": [
+          "For Listening Audio Correctly",
+          "Flee Like A Coward",
+          "Flic Lock Asap Coach",
+          "Free Lossless Audio Codec"
+        ],
+        "goodAnswer": 3
+      },
+      {
+        "id": "e8a14063-9b08-4d47-8adb-b1188d6463ee",
+        "questionId": 6,
+        "question": "Un fichier executable se termine parfois par une extension. Laquelle ?",
+        "choices": [
+          "\".bin\"",
+          "\".iso\"",
+          "\".exe\"",
+          "\".img\""
+        ],
+        "goodAnswer": 2
+      },
+      {
+        "id": "d576de9f-9d29-4590-a4d5-3e1c400a52a0",
+        "questionId": 7,
+        "question": "Laquelle de ces affirmations est vraie ?",
+        "choices": [
+          "MP3 et MPEG3 sont tous les deux des formats de fichiers audio",
+          "MP3 est un format de fichier audio, MPEG3 est un format de fichier video",
+          "MP3 est un format de fichier video, MPEG3 est un format de fichier audio",
+          "MP3 et MPEG3 sont tous les deux des formats de fichiers video"
+        ],
+        "goodAnswer": 1
+      },
+      {
+        "id": "4e274592-4660-44b2-8786-f05ab0e3b01d",
+        "questionId": 8,
+        "question": "Dans quel cas un fichier est une image ?",
+        "choices": [
+          "Quand l'extension est celui d'une image (exemple : JPG)",
+          "Quand le formatage du fichier est celui d'une image",
+          "Quand le nom du fichier est \"image\"",
+          "Quand l'icone est une petite image"
+        ],
+        "goodAnswer": 1
+      },
+      {
+        "id": "8698da6a-ef9b-4b43-81ac-d0b77ffd111a",
+        "questionId": 9,
+        "question": "Lequel de ces format est aussi appelé \"Vorbis\" ?",
+        "choices": [
+          "WMV",
+          "OGG",
+          "Flac",
+          "BMP"
+        ],
+        "goodAnswer": 1
+      },
+      {
+        "id": "92fbc080-8bda-4131-ae3f-7f40095d7624",
+        "questionId": 10,
+        "question": "Lequel de ces formats de documents n'appartient pas à la suite Microsoft Office ?",
+        "choices": [
+          "doc(x)",
+          "ppt(x)",
+          "pdf(x)",
+          "xls(x)"
+        ],
+        "goodAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "32917aac-7c6e-4f1a-94b3-717a4cdb9658",
+    "title": "Master your keyboard",
+    "description": "Knowing the different keys, as well as their combinations",
+    "difficulty": 2.0,
+    "status": 0,
+    "lessonId": "8861b889-599b-42b5-952b-f81e8529be2e",
+    "introduction": "",
+    "conclusion": "You made a score of %d/%d. %s",
+    "picture": "drawable/model_keyboard",
+    "parts": []
+  },
+  {
+    "id": "229e1f69-21ff-4ab4-a53f-4d4c4664d456",
+    "title": "The files system",
+    "description": "Learn to recognize files, folders, and symlinks",
+    "difficulty": 1.0,
+    "status": 0,
+    "lessonId": "a595c400-50ef-4896-8c50-42343c33f8be",
+    "introduction": "",
+    "conclusion": "You made a score of %d/%d. %s",
+    "picture": "drawable/model_files",
+    "parts": []
+  },
+  {
+    "id": "715de63f-2397-4524-a260-16e99edb785a",
+    "title": "Using an Internet Browser",
+    "description": "Mastering the basics of web exploration",
+    "difficulty": 1.0,
+    "status": 0,
+    "lessonId": "53bc4aca-d21b-4016-8ac4-1cbf37bcd542",
+    "introduction": "",
+    "conclusion": "You made a score of %d/%d. %s",
+    "picture": "drawable/model_internet",
+    "parts": []
+  },
+  {
+    "id": "65956bfa-4534-4f63-b789-fb0e166ebd0c",
+    "title": "E-mails",
+    "description": "Knowing the basics of what is an e-mail",
+    "difficulty": 1.0,
+    "status": 0,
+    "lessonId": "d4c418b3-2bd9-4318-b669-3f8d621dd758",
+    "introduction": "",
+    "conclusion": "You made a score of %d/%d. %s",
+    "picture": "drawable/model_email",
+    "parts": []
+  }
+]

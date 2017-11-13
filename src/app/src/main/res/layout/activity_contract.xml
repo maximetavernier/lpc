@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:id="@+id/quizzListLayout"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cloud"
+        android:paddingBottom="@dimen/vertical_margin_medium"
+        android:paddingLeft="@dimen/horizontal_margin_medium"
+        android:paddingRight="@dimen/horizontal_margin_medium"
+        android:paddingTop="@dimen/vertical_margin_medium"
+        tools:context="io.tatav.learningpc.abs.activities.ContractActivity">
+  <android.support.v7.widget.RecyclerView
+          android:id="@+id/recyclerView"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:background="@android:color/transparent"/>
+</RelativeLayout>

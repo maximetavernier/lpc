@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Positive Margin -->
+  <dimen name="horizontal_margin_large">32dp</dimen>
+  <dimen name="vertical_margin_large">32dp</dimen>
+  <dimen name="margin_large">32dp</dimen>
+
+  <dimen name="horizontal_margin_medium">16dp</dimen>
+  <dimen name="vertical_margin_medium">16dp</dimen>
+  <dimen name="margin_medium">16dp</dimen>
+
+  <dimen name="horizontal_margin_small">8dp</dimen>
+  <dimen name="vertical_margin_small">8dp</dimen>
+  <dimen name="margin_small">8dp</dimen>
+
+  <dimen name="horizontal_margin_xsmall">4dp</dimen>
+  <dimen name="vertical_margin_xsmall">4dp</dimen>
+  <dimen name="margin_xsmall">4dp</dimen>
+
+  <dimen name="horizontal_margin">16dp</dimen>
+  <dimen name="vertical_margin">16dp</dimen>
+
+  <!-- Negative Margin -->
+  <dimen name="horizontal_neg_margin_large">-32dp</dimen>
+  <dimen name="vertical_neg_margin_large">-32dp</dimen>
+  <dimen name="neg_margin_large">-32dp</dimen>
+
+  <dimen name="horizontal_neg_margin_medium">-16dp</dimen>
+  <dimen name="vertical_neg_margin_medium">-16dp</dimen>
+  <dimen name="neg_margin_medium">-16dp</dimen>
+
+  <dimen name="horizontal_neg_margin_small">-8dp</dimen>
+  <dimen name="vertical_neg_margin_small">-8dp</dimen>
+  <dimen name="neg_margin_small">-8dp</dimen>
+
+  <dimen name="horizontal_neg_margin_xsmall">-4dp</dimen>
+  <dimen name="vertical_neg_margin_xsmall">-4dp</dimen>
+  <dimen name="neg_margin_xsmall">-4dp</dimen>
+
+  <dimen name="horizontal_neg_margin">-16dp</dimen>
+  <dimen name="vertical_neg_margin">-16dp</dimen>
+
+  <!-- Padding -->
+
+  <!-- Cards -->
+  <dimen name="card_height">120dp</dimen>
+  <dimen name="card_corner_radius">2dp</dimen>
+  <dimen name="card_elevation">2dp</dimen>
+
+  <!-- Text -->
+  <dimen name="text_size_xlarge">20sp</dimen>
+  <dimen name="text_size_large">18sp</dimen>
+  <dimen name="text_size_medium">14sp</dimen>
+  <dimen name="text_size_small">12sp</dimen>
+  <dimen name="text_size_xsmall">10sp</dimen>
+</resources>
